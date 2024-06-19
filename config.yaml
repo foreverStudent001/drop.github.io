@@ -1,4 +1,4 @@
-baseURL: "https://dropen.xyz/"
+baseURL: https://dropen.xyz/
 
 # Book configuration
 disablePathToLower: true
