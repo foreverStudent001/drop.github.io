@@ -48,6 +48,13 @@
           "text": "Troubleshooting and FAQ"
         }
       ],
+      "/blog/Welcome": [
+        {
+          "source": "/blog/Welcome",
+          "target": "/create-a-link",
+          "text": "create a link"
+        }
+      ],
       "/features/languages": [
         {
           "source": "/features/languages",
@@ -191,6 +198,13 @@
       ]
     },
     "backlinks": {
+      "/create-a-link": [
+        {
+          "source": "/blog/Welcome",
+          "target": "/create-a-link",
+          "text": "create a link"
+        }
+      ],
       "/features/language": [
         {
           "source": "/setup/config",
@@ -434,6 +448,11 @@
       "source": "/",
       "target": "/setup/troubleshooting",
       "text": "Troubleshooting and FAQ"
+    },
+    {
+      "source": "/blog/Welcome",
+      "target": "/create-a-link",
+      "text": "create a link"
     },
     {
       "source": "/features/languages",
