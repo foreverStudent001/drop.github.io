@@ -16,29 +16,6 @@ markup:
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
-defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
-languages:
-  en:
-    contentDir: content/en
-    disabled: false
-    languageCode: en-US
-    languageDirection: ltr
-    languageName: English
-    params:
-      subtitle: 
-    title: 
-    weight: 1
-  ru:
-    contentDir: content/ru
-    disabled: false
-    languageCode: en-US
-    languageDirection: ltr
-    languageName: Русский
-    params:
-      subtitle: 
-    title: 
-    weight: 2
 
 # Sidebar menu additional links
 menu:
