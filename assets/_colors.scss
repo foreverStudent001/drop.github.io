@@ -17,7 +17,7 @@
 }
 
 [saved-theme="dark"] {
-    --light: #202324 !important; //#1e1e21 !important; //yet another shade of black
+    --light: #202324 !important; //#1e1e21 !important; //yet another shade of black 
     --dark: #000000 !important; //#f7f2fa !important; //reallyblack
     --secondary: #181a1b !important; //#e0aeff !important; //black
     --visited: #545b5e !important; //#d199ff !important; //GRAYish
@@ -26,9 +26,9 @@
     --gray: #b4acac !important; //#d4d4d4 !important; //another shade of gray 
     --lightgray: #d8d4d4 !important; //#292633 !important; 
     --outlinegray: #242729 !important; //#343434 !important;
-    --highlighted: #848484; //#574010;
+    --highlighted: #fffdd0; //#848484; //#574010; //cream 
     --header: #070707; //#7d7d7d//#7838f8; //black
-    --title: rgb(132,222,2); //rgb(255, 108, 196); //vivid green
+    --title: rgb(245,245,245); //rgb(132,222,2); //rgb(255, 108, 196); //vivid green //white smoke
     --scrollbar: rgb(177, 177, 177); // gray 
     --scrollbar-track: rgb(51, 51, 51); //very dark gray, kinda ugly 
 }
