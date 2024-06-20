@@ -9,7 +9,7 @@
     --lightgray: #f0f0f0;
     --outlinegray: #dadada;
     --million-progress-bar-color: var(--secondary);
-    --highlighted: #8446ff88; //?
+    --highlighted: #faf8f8; //#8446ff88; //?
     --header: #c1c1c1; //#bca1ff
     --title: rgb(1,1,1); //rgb(204,230,255); //rgb(134, 42, 232); //black...
     --scrollbar: gray;
@@ -19,9 +19,9 @@
 [saved-theme="dark"] {
     --light: #202324 !important; //#1e1e21 !important; //yet another shade of black 
     --dark: #000000 !important; //#f7f2fa !important; //reallyblack
-    --secondary: #181a1b !important; //#e0aeff !important; //black
-    --visited: #545b5e !important; //#d199ff !important; //GRAYish
-    --tertiary: #e8e6e3 !important; //#92a8ff !important; //wan white 
+    --secondary: #545b5e !important; //#d199ff !important; //GRAYish
+    --visited: #181a1b !important; //#e0aeff !important; //black
+    --tertiary: #181a1b !important; //#e0aeff !important; //black                                       //#e8e6e3 !important; //#92a8ff !important; //wan white 
     --primary: #445b5e !important; //#f58382 !important; //muted forest green
     --gray: #b4acac !important; //#d4d4d4 !important; //another shade of gray 
     --lightgray: #d8d4d4 !important; //#292633 !important; 
@@ -30,5 +30,5 @@
     --header: #070707; //#7d7d7d//#7838f8; //black
     --title: rgb(245,245,245); //rgb(132,222,2); //rgb(255, 108, 196); //vivid green //white smoke
     --scrollbar: rgb(177, 177, 177); // gray 
-    --scrollbar-track: rgb(51, 51, 51); //very dark gray, kinda ugly 
+    --scrollbar-track: rgb(245,245,245); //rgb(51, 51, 51); //very dark gray, kinda ugly  //white smoke
 }
