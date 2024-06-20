@@ -1,15 +1,15 @@
 :root {
     --light: #faf8f8;
-    --dark: #141021;
-    --secondary: #7c00ce;
-    --tertiary: #ff38e4;
-    --visited: #afbfc9;
-    --primary: #f28482;
+    --dark: #080808; //#141021; //mostly black
+    --secondary: #f2f3f4; //#7c00ce; //anti flash white //next: try #dddddd
+    --tertiary: #000000; //#ff38e4; //black
+    --visited: #afbfc9; //grayish blue 
+    --primary: #c2b2b2; //#f28482; //gray with red tint
     --gray: #3f3f3f;
     --lightgray: #f0f0f0;
     --outlinegray: #dadada;
     --million-progress-bar-color: var(--secondary);
-    --highlighted: #8446ff88;
+    --highlighted: #8446ff88; //?
     --header: #c1c1c1; //#bca1ff
     --title: rgb(204,230,255); //rgb(134, 42, 232);
     --scrollbar: gray;
@@ -17,18 +17,18 @@
 }
 
 [saved-theme="dark"] {
-    --light: #1e1e21 !important;
-    --dark: #f7f2fa !important;
-    --secondary: #e0aeff !important;
-    --visited: #d199ff !important;
-    --tertiary: #92a8ff !important;
-    --primary: #f58382 !important;
-    --gray: #d4d4d4 !important;
-    --lightgray: #292633 !important;
-    --outlinegray: #343434 !important;
-    --highlighted: #574010;
-    --header: #7d7d7d//#7838f8;
-    --title: rgb(132,222,2); //rgb(255, 108, 196);
-    --scrollbar: rgb(177, 177, 177);
-    --scrollbar-track: rgb(51, 51, 51);
+    --light: #202324 !important; //#1e1e21 !important; //yet another shade of black
+    --dark: #000000 !important; //#f7f2fa !important; //reallyblack
+    --secondary: #181a1b !important; //#e0aeff !important; //black
+    --visited: #545b5e !important; //#d199ff !important; //GRAYish
+    --tertiary: #e8e6e3 !important; //#92a8ff !important; //wan white 
+    --primary: #445b5e !important; //#f58382 !important; //muted forest green
+    --gray: #b4acac !important; //#d4d4d4 !important; //another shade of gray 
+    --lightgray: #d8d4d4 !important; //#292633 !important; 
+    --outlinegray: #242729 !important; //#343434 !important;
+    --highlighted: #848484; //#574010;
+    --header: #070707; //#7d7d7d//#7838f8; //black
+    --title: rgb(132,222,2); //rgb(255, 108, 196); //vivid green
+    --scrollbar: rgb(177, 177, 177); // gray 
+    --scrollbar-track: rgb(51, 51, 51); //very dark gray, kinda ugly 
 }
