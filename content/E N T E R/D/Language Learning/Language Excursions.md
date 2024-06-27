@@ -1,4 +1,4 @@
-[[D/Language Learning/Russian/R$~$U$~$S$~$S$~$I$~$A$~$N|RUS]]
+[[D/Language Learning/Russian/Russian|RUS]]
 
 
 
