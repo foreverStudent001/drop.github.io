@@ -1,8 +1,8 @@
 ---
+bookCollapseSection: true
 title: Language Learning 
 tags:
-  - example-tag
+  - lang-tag
 ---
 
 
-yo

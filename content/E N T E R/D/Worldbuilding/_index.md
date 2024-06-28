@@ -1,4 +1,5 @@
 ---
+bookCollapseSection: true
 title: Worldbuilding 
 tags:
   - example-tag

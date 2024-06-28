@@ -1,7 +1,7 @@
 ---
 title: R U S S I A N 
 tags:
-  - example-tag
+  - rus-tag
 ---
 ## Vocab List 
 

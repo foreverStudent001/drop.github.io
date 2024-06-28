@@ -1,4 +1,5 @@
 ---
+bookCollapseSection: true
 title: SOURCE INDEX
 tags:
   - example-tag

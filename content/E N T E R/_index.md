@@ -1,5 +1,6 @@
 
 ---
+bookCollapseSection: true
 title: E N T E R 
 tags:
   - example-tag

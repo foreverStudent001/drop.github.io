@@ -1,7 +1,6 @@
 ---
+bookCollapseSection: true
 title: Lists
-tags:
-  - example-tag
 ---
 
-## hi 
+test 

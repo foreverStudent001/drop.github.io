@@ -1,7 +1,5 @@
 ---
-title: N A V I G A T O R 
-tags:
-  - example-tag
+title: "N A V I G A T O R" 
 ---
 
 ## TOC 

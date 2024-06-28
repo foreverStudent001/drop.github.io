@@ -1,9 +1,10 @@
 ## TOC 
 ---
+bookCollapseSection: true
 weight: 1
-title: D
-tags:
-  - example-tag
+title: "D"
+
 ---
 
-Эти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.
+I am first (descending order!)
+
