@@ -1,22 +1,26 @@
 ---
 weight: -1
-title: "N A V I G A T O R"
+title: N A V I G A T O R
 ---
 
 ## TOC 
 
 ### Lists
-[[D/Lists/Reading List]]  
+[[D/Lists/Reading List |Reading List]]
+
 Playlist
 
 ### Language Learning 
 [[D/Language Learning/Language Excursions]]
 
+
 ### Worldbuilding 
 [[D/Worldbuilding/Top Down]]
 
 [[D/Worldbuilding/Solar System]]
+
 Planetary Concerns
+
 Beyond
 
 

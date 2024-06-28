@@ -8,3 +8,4 @@
 
 
 //TODO: why bullets? why no /n ??
+//TODO: pop up blurb bubble for side menu items

@@ -7,8 +7,8 @@
   },
   "/E-N-T-E-R/": {
     "title": "E N T E R",
-    "content": "\nWELCOME HERE ",
-    "lastmodified": "2024-06-28T16:37:06.4491288+02:00",
+    "content": "\n# title \nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск. Здесь я должен начать с паузы и подумать о том, что все мысли и идеи, выраженные в этом пространстве, являются отражением ментальных установок, повторений, которые стремятся к улучшению, но не лишены недостатков. В настоящее время и в каждом последующем подарке пусть меня не покидает следующий принцип: в знании - свобода воли.",
+    "lastmodified": "2024-06-28T17:06:43.4880774+02:00",
     "tags": []
   },
   "/E-N-T-E-R/D/": {
@@ -55,8 +55,8 @@
   },
   "/E-N-T-E-R/D/Lists/Reading-List": {
     "title": "Reading List",
-    "content": "## Summer 2024 Fiction\n- [ ] *The Shadow of the Gods*, John Gwynne (#Book1 Bloodsworn trilogy )\n- [x]  book2 \n- [ ] hi\n- [ ] \n## Summer 2024 Nonfiction \n- [ ] *Weapons of Math Destruction*, Cathy O'Neil \n\n\n//TODO: why bullets? why no /n ??",
-    "lastmodified": "2024-06-28T15:12:38.9075024+02:00",
+    "content": "## Summer 2024 Fiction\n- [ ] *The Shadow of the Gods*, John Gwynne (#Book1 Bloodsworn trilogy )\n- [x]  book2 \n- [ ] hi\n- [ ] \n## Summer 2024 Nonfiction \n- [ ] *Weapons of Math Destruction*, Cathy O'Neil \n\n\n//TODO: why bullets? why no /n ??\n//TODO: pop up blurb bubble for side menu items",
+    "lastmodified": "2024-06-28T17:03:32.3714723+02:00",
     "tags": []
   },
   "/E-N-T-E-R/D/Other-Writings/": {
@@ -112,7 +112,7 @@
   "/E-N-T-E-R/N-A-V-I-G-A-T-O-R": {
     "title": "N A V I G A T O R",
     "content": "\n## TOC \n\n### Lists\n[[D/Lists/Reading List]]  \nPlaylist\n\n### Language Learning \n[[D/Language Learning/Language Excursions]]\n\n### Worldbuilding \n[[D/Worldbuilding/Top Down]]\n\n[[D/Worldbuilding/Solar System]]\nPlanetary Concerns\nBeyond\n\n\n### Other/Miscellaneous Topics \n[[Travel]]\n[[Essays]]\n\n\n### Index of Sources (A-Z)\n\n\n\n\n\n\n",
-    "lastmodified": "2024-06-28T16:47:40.1423049+02:00",
+    "lastmodified": "2024-06-28T16:50:07.3572824+02:00",
     "tags": []
   },
   "/E-N-T-E-R/N/": {
@@ -139,8 +139,8 @@
   },
   "/E-N-T-E-R/R/": {
     "title": "R",
-    "content": "## Эти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск. Здесь я должен начать с паузы и подумать о том, что все мысли и идеи, выраженные в этом пространстве, являются отражением ментальных установок, повторений, которые стремятся к улучшению, но не лишены недостатков. В настоящее время и в каждом последующем подарке пусть меня не покидает следующий принцип: в знании - свобода воли.\n",
-    "lastmodified": "2024-06-28T15:30:55.6729208+02:00",
+    "content": "\n",
+    "lastmodified": "2024-06-28T17:07:31.2502108+02:00",
     "tags": []
   },
   "/E-N-T-E-R/collapsable/": {

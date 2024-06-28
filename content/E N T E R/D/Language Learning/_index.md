@@ -1,6 +1,6 @@
 ---
 bookCollapseSection: true
-title: Language Learning 
+title: '"Language Learning"'
 tags:
   - lang-tag
 ---
