@@ -5,22 +5,164 @@
     "lastmodified": "2024-06-20T18:19:10.0753399+02:00",
     "tags": []
   },
-  "/blog/MyBlog/Hell-o": {
-    "title": "Hell o",
-    "content": "Good day to you xD",
-    "lastmodified": "2024-06-20T21:12:59.8303031+02:00",
+  "/E-N-T-E-R/": {
+    "title": "E N T E R",
+    "content": "\nWELCOME HERE ",
+    "lastmodified": "2024-06-28T16:37:06.4491288+02:00",
     "tags": []
   },
-  "/blog/MyBlog/Welcome": {
-    "title": "Welcome",
-    "content": "This is your new *vault*.\r\n\r\nMake a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!\r\n\r\nWhen you're ready, delete this note and make the vault your own.",
-    "lastmodified": "2024-06-20T00:21:58.9458578+02:00",
+  "/E-N-T-E-R/D/": {
+    "title": "D",
+    "content": "\nI am first (descending order!)\n\n",
+    "lastmodified": "2024-06-28T16:41:33.1510985+02:00",
     "tags": []
   },
-  "/blog/MyBlog/create-a-link": {
-    "title": "create a link",
+  "/E-N-T-E-R/D/Language-Learning/": {
+    "title": "Language Learning",
+    "content": "\n\n",
+    "lastmodified": "2024-06-28T15:08:42.3456211+02:00",
+    "tags": [
+      "lang-tag"
+    ]
+  },
+  "/E-N-T-E-R/D/Language-Learning/Language-Excursions": {
+    "title": "Language Excursions",
+    "content": "[[D/Language Learning/Russian/Russian|RUS]]\n\n\n\n\n\n",
+    "lastmodified": "2024-06-28T15:09:09.8998989+02:00",
+    "tags": []
+  },
+  "/E-N-T-E-R/D/Language-Learning/Russian/": {
+    "title": "RU",
+    "content": "\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.",
+    "lastmodified": "2024-06-28T15:08:10.6405333+02:00",
+    "tags": [
+      "lang-tag"
+    ]
+  },
+  "/E-N-T-E-R/D/Language-Learning/Russian/Russian": {
+    "title": "R U S S I A N",
+    "content": "## Vocab List \n\n\n",
+    "lastmodified": "2024-06-28T15:08:21.4593886+02:00",
+    "tags": [
+      "rus-tag"
+    ]
+  },
+  "/E-N-T-E-R/D/Lists/": {
+    "title": "Lists",
+    "content": "\ntest ",
+    "lastmodified": "2024-06-28T15:10:00.7252996+02:00",
+    "tags": []
+  },
+  "/E-N-T-E-R/D/Lists/Reading-List": {
+    "title": "Reading List",
+    "content": "## Summer 2024 Fiction\n- [ ] *The Shadow of the Gods*, John Gwynne (#Book1 Bloodsworn trilogy )\n- [x]  book2 \n- [ ] hi\n- [ ] \n## Summer 2024 Nonfiction \n- [ ] *Weapons of Math Destruction*, Cathy O'Neil \n\n\n//TODO: why bullets? why no /n ??",
+    "lastmodified": "2024-06-28T15:12:38.9075024+02:00",
+    "tags": []
+  },
+  "/E-N-T-E-R/D/Other-Writings/": {
+    "title": "Other Writings",
+    "content": "\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.",
+    "lastmodified": "2024-06-28T15:13:15.0123088+02:00",
+    "tags": [
+      "example-tag"
+    ]
+  },
+  "/E-N-T-E-R/D/Other-Writings/Miscellaneous-Topics": {
+    "title": "Miscellaneous Topics",
     "content": "",
-    "lastmodified": "2024-06-20T00:21:58.9458578+02:00",
+    "lastmodified": "2024-06-24T10:52:22.7835426+02:00",
     "tags": []
+  },
+  "/E-N-T-E-R/D/SOURCE-INDEX/": {
+    "title": "SOURCE INDEX",
+    "content": "\n\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.",
+    "lastmodified": "2024-06-28T15:13:47.2827917+02:00",
+    "tags": [
+      "example-tag"
+    ]
+  },
+  "/E-N-T-E-R/D/Worldbuilding/": {
+    "title": "Worldbuilding",
+    "content": "\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.",
+    "lastmodified": "2024-06-28T16:41:43.742436+02:00",
+    "tags": [
+      "example-tag"
+    ]
+  },
+  "/E-N-T-E-R/D/Worldbuilding/Solar-System": {
+    "title": "Solar System",
+    "content": "asdfsdfd",
+    "lastmodified": "2024-06-28T15:14:14.3926228+02:00",
+    "tags": []
+  },
+  "/E-N-T-E-R/D/Worldbuilding/Top-Down": {
+    "title": "Top Down",
+    "content": "sdfsdfsd",
+    "lastmodified": "2024-06-28T15:14:11.8903601+02:00",
+    "tags": []
+  },
+  "/E-N-T-E-R/E/": {
+    "title": "E",
+    "content": "\n## FK\n\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.",
+    "lastmodified": "2024-06-28T15:31:46.9693054+02:00",
+    "tags": [
+      "example-tag"
+    ]
+  },
+  "/E-N-T-E-R/N-A-V-I-G-A-T-O-R": {
+    "title": "N A V I G A T O R",
+    "content": "\n## TOC \n\n### Lists\n[[D/Lists/Reading List]]  \nPlaylist\n\n### Language Learning \n[[D/Language Learning/Language Excursions]]\n\n### Worldbuilding \n[[D/Worldbuilding/Top Down]]\n\n[[D/Worldbuilding/Solar System]]\nPlanetary Concerns\nBeyond\n\n\n### Other/Miscellaneous Topics \n[[Travel]]\n[[Essays]]\n\n\n### Index of Sources (A-Z)\n\n\n\n\n\n\n",
+    "lastmodified": "2024-06-28T16:47:40.1423049+02:00",
+    "tags": []
+  },
+  "/E-N-T-E-R/N/": {
+    "title": "N",
+    "content": "\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.",
+    "lastmodified": "2024-06-28T15:31:54.576699+02:00",
+    "tags": [
+      "example-tag"
+    ]
+  },
+  "/E-N-T-E-R/O/": {
+    "title": "O",
+    "content": "\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.",
+    "lastmodified": "2024-06-28T15:17:56.6398162+02:00",
+    "tags": [
+      "example-tag"
+    ]
+  },
+  "/E-N-T-E-R/P/": {
+    "title": "P",
+    "content": "\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.",
+    "lastmodified": "2024-06-28T15:31:14.1374607+02:00",
+    "tags": []
+  },
+  "/E-N-T-E-R/R/": {
+    "title": "R",
+    "content": "## Эти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск. Здесь я должен начать с паузы и подумать о том, что все мысли и идеи, выраженные в этом пространстве, являются отражением ментальных установок, повторений, которые стремятся к улучшению, но не лишены недостатков. В настоящее время и в каждом последующем подарке пусть меня не покидает следующий принцип: в знании - свобода воли.\n",
+    "lastmodified": "2024-06-28T15:30:55.6729208+02:00",
+    "tags": []
+  },
+  "/E-N-T-E-R/collapsable/": {
+    "title": "O N E",
+    "content": "\n## BEHOLD, CONTENT...",
+    "lastmodified": "2024-06-28T16:27:14.6527491+02:00",
+    "tags": []
+  },
+  "/E-N-T-E-R/collapsable/one/": {
+    "title": "T W O",
+    "content": "\ncontent...",
+    "lastmodified": "2024-06-28T14:59:33.33099+02:00",
+    "tags": [
+      "example-tag"
+    ]
+  },
+  "/E-N-T-E-R/collapsable/one/two/": {
+    "title": "T H R E E",
+    "content": "\ncontent...",
+    "lastmodified": "2024-06-28T15:15:03.4012308+02:00",
+    "tags": [
+      "example-tag"
+    ]
   }
 }

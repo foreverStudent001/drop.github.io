@@ -1,29 +1,133 @@
 {
   "index": {
     "links": {
-      "/blog/MyBlog/Welcome": [
+      "/E-N-T-E-R/D/Language-Learning/Language-Excursions": [
         {
-          "source": "/blog/MyBlog/Welcome",
-          "target": "/create-a-link",
-          "text": "create a link"
+          "source": "/E-N-T-E-R/D/Language-Learning/Language-Excursions",
+          "target": "/D/Language-Learning/Russian/Russian",
+          "text": "RUS"
+        }
+      ],
+      "/E-N-T-E-R/N-A-V-I-G-A-T-O-R": [
+        {
+          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "target": "/D/Lists/Reading-List",
+          "text": "D/Lists/Reading List"
+        },
+        {
+          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "target": "/D/Language-Learning/Language-Excursions",
+          "text": "D/Language Learning/Language Excursions"
+        },
+        {
+          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "target": "/D/Worldbuilding/Top-Down",
+          "text": "D/Worldbuilding/Top Down"
+        },
+        {
+          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "target": "/D/Worldbuilding/Solar-System",
+          "text": "D/Worldbuilding/Solar System"
+        },
+        {
+          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "target": "/Travel",
+          "text": "Travel"
+        },
+        {
+          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "target": "/Essays",
+          "text": "Essays"
         }
       ]
     },
     "backlinks": {
-      "/create-a-link": [
+      "/D/Language-Learning/Language-Excursions": [
         {
-          "source": "/blog/MyBlog/Welcome",
-          "target": "/create-a-link",
-          "text": "create a link"
+          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "target": "/D/Language-Learning/Language-Excursions",
+          "text": "D/Language Learning/Language Excursions"
+        }
+      ],
+      "/D/Language-Learning/Russian/Russian": [
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/Language-Excursions",
+          "target": "/D/Language-Learning/Russian/Russian",
+          "text": "RUS"
+        }
+      ],
+      "/D/Lists/Reading-List": [
+        {
+          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "target": "/D/Lists/Reading-List",
+          "text": "D/Lists/Reading List"
+        }
+      ],
+      "/D/Worldbuilding/Solar-System": [
+        {
+          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "target": "/D/Worldbuilding/Solar-System",
+          "text": "D/Worldbuilding/Solar System"
+        }
+      ],
+      "/D/Worldbuilding/Top-Down": [
+        {
+          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "target": "/D/Worldbuilding/Top-Down",
+          "text": "D/Worldbuilding/Top Down"
+        }
+      ],
+      "/Essays": [
+        {
+          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "target": "/Essays",
+          "text": "Essays"
+        }
+      ],
+      "/Travel": [
+        {
+          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "target": "/Travel",
+          "text": "Travel"
         }
       ]
     }
   },
   "links": [
     {
-      "source": "/blog/MyBlog/Welcome",
-      "target": "/create-a-link",
-      "text": "create a link"
+      "source": "/E-N-T-E-R/D/Language-Learning/Language-Excursions",
+      "target": "/D/Language-Learning/Russian/Russian",
+      "text": "RUS"
+    },
+    {
+      "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+      "target": "/D/Lists/Reading-List",
+      "text": "D/Lists/Reading List"
+    },
+    {
+      "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+      "target": "/D/Language-Learning/Language-Excursions",
+      "text": "D/Language Learning/Language Excursions"
+    },
+    {
+      "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+      "target": "/D/Worldbuilding/Top-Down",
+      "text": "D/Worldbuilding/Top Down"
+    },
+    {
+      "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+      "target": "/D/Worldbuilding/Solar-System",
+      "text": "D/Worldbuilding/Solar System"
+    },
+    {
+      "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+      "target": "/Travel",
+      "text": "Travel"
+    },
+    {
+      "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+      "target": "/Essays",
+      "text": "Essays"
     }
   ]
 }
