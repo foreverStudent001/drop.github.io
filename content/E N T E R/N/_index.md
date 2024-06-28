@@ -1,6 +1,6 @@
 ---
 weight: 6
-title: N
+title: "N"
 tags:
   - example-tag
 ---
