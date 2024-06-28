@@ -60,7 +60,7 @@ params:
   enableContextualBacklinks: true
 
   # whether to show a section of recent notes on the home page
-  enableRecentNotes: false
+  enableRecentNotes: false 
 
   # whether to display an 'edit' button next to the last edited field
   # that links to github
@@ -80,7 +80,7 @@ params:
 
   # Site description and title
   description:
-    Notes, hosted by bencuan
+    Words words words
 
   
   # Footer links
@@ -122,7 +122,7 @@ params:
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath: edit/main/exampleSite
+  #BookEditPath: edit/main/exampleSite
 
   # Configure the date format used on the pages
   # - In git information

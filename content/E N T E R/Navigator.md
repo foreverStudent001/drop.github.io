@@ -6,18 +6,19 @@ title: N A V I G A T O R
 ## TOC 
 
 ### Lists
-[[D/Lists/Reading List |Reading List]]
+[[Reading List]]
 
 Playlist
 
 ### Language Learning 
-[[D/Language Learning/Language Excursions]]
+[[Language Excursions]]
 
 
 ### Worldbuilding 
-[[D/Worldbuilding/Top Down]]
+[[Top Down]]
 
-[[D/Worldbuilding/Solar System]]
+
+[[Solar System]]
 
 Planetary Concerns
 
@@ -26,6 +27,8 @@ Beyond
 
 ### Other/Miscellaneous Topics 
 [[Travel]]
+
+
 [[Essays]]
 
 
