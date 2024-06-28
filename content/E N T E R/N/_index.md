@@ -1,4 +1,5 @@
 ---
+weight: 1
 title: N
 tags:
   - example-tag

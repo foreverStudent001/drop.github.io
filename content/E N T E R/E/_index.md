@@ -1,4 +1,5 @@
 ---
+weight: 1
 title: fk
 tags:
   - example-tag

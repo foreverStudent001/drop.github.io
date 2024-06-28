@@ -1,7 +1,8 @@
 ---
-title: O N E 
-tags:
-  - example-tag
+weight: 1
+bookCollapseSection: true
+title: "O N E"
+	tags
 ---
 
 ## BEHOLD, CONTENT...
