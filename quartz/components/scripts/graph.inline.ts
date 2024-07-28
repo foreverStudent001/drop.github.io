@@ -368,3 +368,8 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   containerIcon?.addEventListener("click", renderGlobalGraph)
   window.addCleanup(() => containerIcon?.removeEventListener("click", renderGlobalGraph))
 })
+
+// @ts-ignore
+document.getElementById("btn").onclick = () => {
+  alert("button clicked!")
+}
