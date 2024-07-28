@@ -1,92 +1,352 @@
 {
   "index": {
     "links": {
+      "/E-N-T-E-R/": [
+        {
+          "source": "/E-N-T-E-R/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
+        }
+      ],
+      "/E-N-T-E-R/D/": [
+        {
+          "source": "/E-N-T-E-R/D/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
+        }
+      ],
+      "/E-N-T-E-R/D/Language-Learning/": [
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
+        },
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/",
+          "target": "/D/Russian",
+          "text": "Russian"
+        }
+      ],
       "/E-N-T-E-R/D/Language-Learning/Language-Excursions": [
         {
           "source": "/E-N-T-E-R/D/Language-Learning/Language-Excursions",
-          "target": "/D/Language-Learning/Russian/Russian",
-          "text": "RUS"
+          "target": "/Russian",
+          "text": "Russian"
+        },
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/Language-Excursions",
+          "target": "/E-N-T-E-R/D/_index",
+          "text": "D"
         }
       ],
-      "/E-N-T-E-R/N-A-V-I-G-A-T-O-R": [
+      "/E-N-T-E-R/D/Language-Learning/Russian/": [
         {
-          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
-          "target": "/D/Lists/Reading-List",
-          "text": "D/Lists/Reading List"
+          "source": "/E-N-T-E-R/D/Language-Learning/Russian/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
         },
         {
-          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
-          "target": "/D/Language-Learning/Language-Excursions",
-          "text": "D/Language Learning/Language Excursions"
+          "source": "/E-N-T-E-R/D/Language-Learning/Russian/",
+          "target": "/E-N-T-E-R/D/_index",
+          "text": "D"
         },
         {
-          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
-          "target": "/D/Worldbuilding/Top-Down",
-          "text": "D/Worldbuilding/Top Down"
+          "source": "/E-N-T-E-R/D/Language-Learning/Russian/",
+          "target": "/D/Russian",
+          "text": "Russian"
+        }
+      ],
+      "/E-N-T-E-R/D/Language-Learning/Russian/Goal-Roadmap": [
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/Russian/Goal-Roadmap",
+          "target": "/E-N-T-E-R/D/_index",
+          "text": "D"
+        }
+      ],
+      "/E-N-T-E-R/D/Language-Learning/Russian/Russian": [
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/Russian/Russian",
+          "target": "/E-N-T-E-R/D/_index",
+          "text": "D"
+        }
+      ],
+      "/E-N-T-E-R/D/Lists/": [
+        {
+          "source": "/E-N-T-E-R/D/Lists/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
         },
         {
-          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
-          "target": "/D/Worldbuilding/Solar-System",
-          "text": "D/Worldbuilding/Solar System"
+          "source": "/E-N-T-E-R/D/Lists/",
+          "target": "/D/_index",
+          "text": "DROPEN"
         },
         {
-          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "source": "/E-N-T-E-R/D/Lists/",
+          "target": "/D/",
+          "text": "DROPEN"
+        }
+      ],
+      "/E-N-T-E-R/D/Other-Writings/": [
+        {
+          "source": "/E-N-T-E-R/D/Other-Writings/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
+        }
+      ],
+      "/E-N-T-E-R/D/SOURCE-INDEX/": [
+        {
+          "source": "/E-N-T-E-R/D/SOURCE-INDEX/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
+        }
+      ],
+      "/E-N-T-E-R/D/Worldbuilding/": [
+        {
+          "source": "/E-N-T-E-R/D/Worldbuilding/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
+        }
+      ],
+      "/E-N-T-E-R/E/": [
+        {
+          "source": "/E-N-T-E-R/E/",
+          "target": "/E/_index",
+          "text": "DROPEN"
+        }
+      ],
+      "/E-N-T-E-R/N/": [
+        {
+          "source": "/E-N-T-E-R/N/",
+          "target": "/N/_index",
+          "text": "DROPEN"
+        }
+      ],
+      "/E-N-T-E-R/Navigator": [
+        {
+          "source": "/E-N-T-E-R/Navigator",
+          "target": "/Reading-List",
+          "text": "Reading List"
+        },
+        {
+          "source": "/E-N-T-E-R/Navigator",
+          "target": "/Language-Excursions",
+          "text": "Language Excursions"
+        },
+        {
+          "source": "/E-N-T-E-R/Navigator",
+          "target": "/Top-Down",
+          "text": "Top Down"
+        },
+        {
+          "source": "/E-N-T-E-R/Navigator",
+          "target": "/Solar-System",
+          "text": "Solar System"
+        },
+        {
+          "source": "/E-N-T-E-R/Navigator",
           "target": "/Travel",
           "text": "Travel"
         },
         {
-          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "source": "/E-N-T-E-R/Navigator",
           "target": "/Essays",
           "text": "Essays"
+        }
+      ],
+      "/E-N-T-E-R/O/": [
+        {
+          "source": "/E-N-T-E-R/O/",
+          "target": "/O/_index",
+          "text": "DROPEN"
+        }
+      ],
+      "/E-N-T-E-R/P/": [
+        {
+          "source": "/E-N-T-E-R/P/",
+          "target": "/P/_index",
+          "text": "DROPEN"
+        }
+      ],
+      "/E-N-T-E-R/R/": [
+        {
+          "source": "/E-N-T-E-R/R/",
+          "target": "/R/_index",
+          "text": "DROPEN"
         }
       ]
     },
     "backlinks": {
-      "/D/Language-Learning/Language-Excursions": [
+      "/D/": [
         {
-          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
-          "target": "/D/Language-Learning/Language-Excursions",
-          "text": "D/Language Learning/Language Excursions"
+          "source": "/E-N-T-E-R/D/Lists/",
+          "target": "/D/",
+          "text": "DROPEN"
         }
       ],
-      "/D/Language-Learning/Russian/Russian": [
+      "/D/Russian": [
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/Russian/",
+          "target": "/D/Russian",
+          "text": "Russian"
+        },
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/",
+          "target": "/D/Russian",
+          "text": "Russian"
+        }
+      ],
+      "/D/_index": [
+        {
+          "source": "/E-N-T-E-R/D/Lists/",
+          "target": "/D/_index",
+          "text": "DROPEN"
+        }
+      ],
+      "/E-N-T-E-R/D/_index": [
         {
           "source": "/E-N-T-E-R/D/Language-Learning/Language-Excursions",
-          "target": "/D/Language-Learning/Russian/Russian",
-          "text": "RUS"
+          "target": "/E-N-T-E-R/D/_index",
+          "text": "D"
+        },
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/Russian/Goal-Roadmap",
+          "target": "/E-N-T-E-R/D/_index",
+          "text": "D"
+        },
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/Russian/Russian",
+          "target": "/E-N-T-E-R/D/_index",
+          "text": "D"
+        },
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/Russian/",
+          "target": "/E-N-T-E-R/D/_index",
+          "text": "D"
         }
       ],
-      "/D/Lists/Reading-List": [
+      "/E-N-T-E-R/_index": [
         {
-          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
-          "target": "/D/Lists/Reading-List",
-          "text": "D/Lists/Reading List"
+          "source": "/E-N-T-E-R/D/Language-Learning/Russian/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
+        },
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
+        },
+        {
+          "source": "/E-N-T-E-R/D/Lists/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
+        },
+        {
+          "source": "/E-N-T-E-R/D/Other-Writings/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
+        },
+        {
+          "source": "/E-N-T-E-R/D/SOURCE-INDEX/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
+        },
+        {
+          "source": "/E-N-T-E-R/D/Worldbuilding/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
+        },
+        {
+          "source": "/E-N-T-E-R/D/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
+        },
+        {
+          "source": "/E-N-T-E-R/",
+          "target": "/E-N-T-E-R/_index",
+          "text": "DROPEN"
         }
       ],
-      "/D/Worldbuilding/Solar-System": [
+      "/E/_index": [
         {
-          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
-          "target": "/D/Worldbuilding/Solar-System",
-          "text": "D/Worldbuilding/Solar System"
-        }
-      ],
-      "/D/Worldbuilding/Top-Down": [
-        {
-          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
-          "target": "/D/Worldbuilding/Top-Down",
-          "text": "D/Worldbuilding/Top Down"
+          "source": "/E-N-T-E-R/E/",
+          "target": "/E/_index",
+          "text": "DROPEN"
         }
       ],
       "/Essays": [
         {
-          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "source": "/E-N-T-E-R/Navigator",
           "target": "/Essays",
           "text": "Essays"
         }
       ],
+      "/Language-Excursions": [
+        {
+          "source": "/E-N-T-E-R/Navigator",
+          "target": "/Language-Excursions",
+          "text": "Language Excursions"
+        }
+      ],
+      "/N/_index": [
+        {
+          "source": "/E-N-T-E-R/N/",
+          "target": "/N/_index",
+          "text": "DROPEN"
+        }
+      ],
+      "/O/_index": [
+        {
+          "source": "/E-N-T-E-R/O/",
+          "target": "/O/_index",
+          "text": "DROPEN"
+        }
+      ],
+      "/P/_index": [
+        {
+          "source": "/E-N-T-E-R/P/",
+          "target": "/P/_index",
+          "text": "DROPEN"
+        }
+      ],
+      "/R/_index": [
+        {
+          "source": "/E-N-T-E-R/R/",
+          "target": "/R/_index",
+          "text": "DROPEN"
+        }
+      ],
+      "/Reading-List": [
+        {
+          "source": "/E-N-T-E-R/Navigator",
+          "target": "/Reading-List",
+          "text": "Reading List"
+        }
+      ],
+      "/Russian": [
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/Language-Excursions",
+          "target": "/Russian",
+          "text": "Russian"
+        }
+      ],
+      "/Solar-System": [
+        {
+          "source": "/E-N-T-E-R/Navigator",
+          "target": "/Solar-System",
+          "text": "Solar System"
+        }
+      ],
+      "/Top-Down": [
+        {
+          "source": "/E-N-T-E-R/Navigator",
+          "target": "/Top-Down",
+          "text": "Top Down"
+        }
+      ],
       "/Travel": [
         {
-          "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+          "source": "/E-N-T-E-R/Navigator",
           "target": "/Travel",
           "text": "Travel"
         }
@@ -96,38 +356,143 @@
   "links": [
     {
       "source": "/E-N-T-E-R/D/Language-Learning/Language-Excursions",
-      "target": "/D/Language-Learning/Russian/Russian",
-      "text": "RUS"
+      "target": "/Russian",
+      "text": "Russian"
     },
     {
-      "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
-      "target": "/D/Lists/Reading-List",
-      "text": "D/Lists/Reading List"
+      "source": "/E-N-T-E-R/D/Language-Learning/Language-Excursions",
+      "target": "/E-N-T-E-R/D/_index",
+      "text": "D"
     },
     {
-      "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
-      "target": "/D/Language-Learning/Language-Excursions",
-      "text": "D/Language Learning/Language Excursions"
+      "source": "/E-N-T-E-R/D/Language-Learning/Russian/Goal-Roadmap",
+      "target": "/E-N-T-E-R/D/_index",
+      "text": "D"
     },
     {
-      "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
-      "target": "/D/Worldbuilding/Top-Down",
-      "text": "D/Worldbuilding/Top Down"
+      "source": "/E-N-T-E-R/D/Language-Learning/Russian/Russian",
+      "target": "/E-N-T-E-R/D/_index",
+      "text": "D"
     },
     {
-      "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
-      "target": "/D/Worldbuilding/Solar-System",
-      "text": "D/Worldbuilding/Solar System"
+      "source": "/E-N-T-E-R/D/Language-Learning/Russian/",
+      "target": "/E-N-T-E-R/_index",
+      "text": "DROPEN"
     },
     {
-      "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+      "source": "/E-N-T-E-R/D/Language-Learning/Russian/",
+      "target": "/E-N-T-E-R/D/_index",
+      "text": "D"
+    },
+    {
+      "source": "/E-N-T-E-R/D/Language-Learning/Russian/",
+      "target": "/D/Russian",
+      "text": "Russian"
+    },
+    {
+      "source": "/E-N-T-E-R/D/Language-Learning/",
+      "target": "/E-N-T-E-R/_index",
+      "text": "DROPEN"
+    },
+    {
+      "source": "/E-N-T-E-R/D/Language-Learning/",
+      "target": "/D/Russian",
+      "text": "Russian"
+    },
+    {
+      "source": "/E-N-T-E-R/D/Lists/",
+      "target": "/E-N-T-E-R/_index",
+      "text": "DROPEN"
+    },
+    {
+      "source": "/E-N-T-E-R/D/Lists/",
+      "target": "/D/_index",
+      "text": "DROPEN"
+    },
+    {
+      "source": "/E-N-T-E-R/D/Lists/",
+      "target": "/D/",
+      "text": "DROPEN"
+    },
+    {
+      "source": "/E-N-T-E-R/D/Other-Writings/",
+      "target": "/E-N-T-E-R/_index",
+      "text": "DROPEN"
+    },
+    {
+      "source": "/E-N-T-E-R/D/SOURCE-INDEX/",
+      "target": "/E-N-T-E-R/_index",
+      "text": "DROPEN"
+    },
+    {
+      "source": "/E-N-T-E-R/D/Worldbuilding/",
+      "target": "/E-N-T-E-R/_index",
+      "text": "DROPEN"
+    },
+    {
+      "source": "/E-N-T-E-R/D/",
+      "target": "/E-N-T-E-R/_index",
+      "text": "DROPEN"
+    },
+    {
+      "source": "/E-N-T-E-R/E/",
+      "target": "/E/_index",
+      "text": "DROPEN"
+    },
+    {
+      "source": "/E-N-T-E-R/N/",
+      "target": "/N/_index",
+      "text": "DROPEN"
+    },
+    {
+      "source": "/E-N-T-E-R/Navigator",
+      "target": "/Reading-List",
+      "text": "Reading List"
+    },
+    {
+      "source": "/E-N-T-E-R/Navigator",
+      "target": "/Language-Excursions",
+      "text": "Language Excursions"
+    },
+    {
+      "source": "/E-N-T-E-R/Navigator",
+      "target": "/Top-Down",
+      "text": "Top Down"
+    },
+    {
+      "source": "/E-N-T-E-R/Navigator",
+      "target": "/Solar-System",
+      "text": "Solar System"
+    },
+    {
+      "source": "/E-N-T-E-R/Navigator",
       "target": "/Travel",
       "text": "Travel"
     },
     {
-      "source": "/E-N-T-E-R/N-A-V-I-G-A-T-O-R",
+      "source": "/E-N-T-E-R/Navigator",
       "target": "/Essays",
       "text": "Essays"
+    },
+    {
+      "source": "/E-N-T-E-R/O/",
+      "target": "/O/_index",
+      "text": "DROPEN"
+    },
+    {
+      "source": "/E-N-T-E-R/P/",
+      "target": "/P/_index",
+      "text": "DROPEN"
+    },
+    {
+      "source": "/E-N-T-E-R/R/",
+      "target": "/R/_index",
+      "text": "DROPEN"
+    },
+    {
+      "source": "/E-N-T-E-R/",
+      "target": "/E-N-T-E-R/_index",
+      "text": "DROPEN"
     }
   ]
 }

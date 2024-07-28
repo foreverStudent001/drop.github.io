@@ -24,17 +24,20 @@ menu:
   #     url: "https://google.com"
   #     weight: 10
   after:
-    - name: "Github"
+    - name: "Amethyst"
       url: "https://github.com/64bitpandas/amethyst"
       weight: 10
 
 params:
 
   name: картошечка 🥔 
-  title: ✒️💀 D R O P E N 
+  title: 💀
+  #title: ![faviconSMOL](images\faviconSMOL.png)
 
-  # OPTIONAL: custom favicon location
-  # favicon: 'location/to/favicon.png'
+  #OPTIONAL: custom favicon location
+  #favicon: '../favicon.png'
+  favicon: 
+  - { rel: "shortcut icon", href: "favicon.png", type: "image/png" }
 
   # whether to display on-hover link preview cards
   enableLinkPreview: true
@@ -57,7 +60,7 @@ params:
 
   # whether backlinks of pages should show the context in which
   # they were mentioned
-  enableContextualBacklinks: true
+  enableContextualBacklinks: false
 
   # whether to show a section of recent notes on the home page
   enableRecentNotes: false 
@@ -74,7 +77,7 @@ params:
 
   # Search (WIP)
   search:
-    enableSemanticSearch: false
+    enableSemanticSearch: false 
     operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
     operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 
@@ -97,7 +100,7 @@ params:
 
   # (Optional, default none) Set the path to a logo for the book. If the logo is
   # /static/logo.png then the path would be logo.png
-  # BookLogo: /logo.png
+  #BookLogo: /logo.png
 
   # (Optional, default none) Set leaf bundle to render as side menu
   # When not specified file structure and weights will be used

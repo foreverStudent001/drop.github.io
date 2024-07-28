@@ -129,11 +129,11 @@ ul.pagination {
   }
 
   input.toggle + label::after {
-    content: "▸";
+    content: "◡";
   }
 
   input.toggle:checked + label::after {
-    content: "▾";
+    content: "👁";
   }
 }
 
