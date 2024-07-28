@@ -1,8 +1,9 @@
 ---
-title: Example Title
+title: Note
 draft: false
 tags: 
 - example-tag
 --- 
 
-The rest of your content lives here. You can use **Markdown** here :) [note2](./Note1.md)
+Note
+[note2](./Note1.md)
