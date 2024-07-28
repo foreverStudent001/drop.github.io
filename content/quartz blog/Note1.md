@@ -1,6 +1,6 @@
 ---
 title: Note 1
-draft: false
+draft: true
 tags: 
 - example-tag
 --- 
