@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "4baeeced150fb8af",
+    "type": "split",
+    "children": [
+      {
+        "id": "96ae800dd0a50ca1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91b3c15f1465a488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/E N T E R/D/Language Learning/Russian/Gender of Nouns Ending in -ь.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gender of Nouns Ending in -ь"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3ab3aeb516a3aa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fdf1886da1c8e74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3a000106d85c7c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0405760e6c9f1187",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "acc7114580afea78",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99ab26b457af1dc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "346a119bc245d29e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76cbc065c100ed00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/E N T E R/D/Language Learning/Russian/Gender of Nouns Ending in -ь.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Gender of Nouns Ending in -ь"
+            }
+          },
+          {
+            "id": "3e3bca4b6eacd1ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/E N T E R/D/Language Learning/Russian/Gender of Nouns Ending in -ь.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Gender of Nouns Ending in -ь"
+            }
+          },
+          {
+            "id": "b33744dcbb843925",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0a3e59174753674c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/E N T E R/D/Language Learning/Russian/Gender of Nouns Ending in -ь.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Gender of Nouns Ending in -ь"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "91b3c15f1465a488",
+  "lastOpenFiles": [
+    "content/E N T E R/D/Language Learning/Russian/_index.md",
+    "content/E N T E R/D/Language Learning/Russian/Gender of Nouns Ending in -ь.md",
+    "content/E N T E R/D/Language Learning/Russian/Russian.md",
+    "content/E N T E R/D/Language Learning/Russian/Goal Roadmap.md",
+    "content/_index.md",
+    "content/E N T E R/Navigator.md",
+    "content/E N T E R/N/_index.md",
+    "content/E N T E R/N/Lib of Noise.md",
+    "content/E N T E R/D/Other Writings/Miscellaneous Topics.md",
+    "content/E N T E R/D/Language Learning/_index.md",
+    "content/E N T E R/D/SOURCE INDEX/_index.md",
+    "content/E N T E R/D/Worldbuilding/Top Down.md",
+    "content/E N T E R/D/Worldbuilding/Solar System.md",
+    "D/Gender.md",
+    "D/Russian.md",
+    "D",
+    "content/E N T E R/D/Other Writings/_index.md",
+    "content/E N T E R/D/Language Learning/Language Excursions.md",
+    "content/E N T E R/collapsable/_index.md",
+    "content/E N T E R/collapsable/one/_index.md",
+    "content/E N T E R/collapsable/one/two/_index.md"
+  ]
+}
