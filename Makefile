@@ -21,4 +21,4 @@ serve: ## Serve Quartz locally
 	hugo server --enableGitInfo --ignoreCache --minify --bind=$(or $(HUGO_BIND),0.0.0.0) --baseURL=$(or $(HUGO_BASEURL),http://localhost) --port=$(or $(HUGO_PORT),1313) --appendPort=$(or $(HUGO_APPENDPORT),true)
 
 docker: ## Serve locally using Docker for Powershell
-	docker run -it --volume=C:\Users\aaluc\Documents\VAULTOFVAULTS\drop.github.io:/quartz -p 1313:1313 ghcr.io/jackyzha0/quartz:hugo
+	docker-compose up 

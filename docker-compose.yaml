@@ -1,0 +1,10 @@
+name: dropen
+services:
+    quartz:
+        stdin_open: true
+        tty: true
+        volumes:
+            - .:/quartz
+        ports:
+            - 1313:1313
+        image: ghcr.io/jackyzha0/quartz:hugo
