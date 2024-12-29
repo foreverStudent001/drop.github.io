@@ -1,11 +1,7 @@
-## Summer 2024 Fiction
-- [ ] *The Shadow of the Gods*, John Gwynne (#Book1 Bloodsworn trilogy )
-- [x]  book2 
-- [ ] hi
+## December 2024 - January 2025 Nonfiction
+- [ ] *The Cause of All Nations*, Don H. Doyle (currently reading)
+- [ ] *Charlie Wilson's War*, George Crile
+- [ ] *Empire of the Summer Moon*, S.C. Gwynne
 - [ ] 
-## Summer 2024 Nonfiction 
-- [ ] *Weapons of Math Destruction*, Cathy O'Neil 
-
-
-//TODO: why bullets? why no /n ??
-//TODO: pop up blurb bubble for side menu items
+## January 2025 Fiction
+- [ ]  *Polostan*, Neal Stephenson

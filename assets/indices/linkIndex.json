@@ -56,6 +56,20 @@
           "text": "Russian"
         }
       ],
+      "/E-N-T-E-R/D/Language-Learning/Russian/EmPhAsIs-Problems": [
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/Russian/EmPhAsIs-Problems",
+          "target": "/E-N-T-E-R/D/_index",
+          "text": "D"
+        }
+      ],
+      "/E-N-T-E-R/D/Language-Learning/Russian/Gender-of-Nouns-Ending-in-%D1%8C": [
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/Russian/Gender-of-Nouns-Ending-in-%D1%8C",
+          "target": "/E-N-T-E-R/D/_index",
+          "text": "D"
+        }
+      ],
       "/E-N-T-E-R/D/Language-Learning/Russian/Goal-Roadmap": [
         {
           "source": "/E-N-T-E-R/D/Language-Learning/Russian/Goal-Roadmap",
@@ -206,6 +220,16 @@
       "/E-N-T-E-R/D/_index": [
         {
           "source": "/E-N-T-E-R/D/Language-Learning/Language-Excursions",
+          "target": "/E-N-T-E-R/D/_index",
+          "text": "D"
+        },
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/Russian/EmPhAsIs-Problems",
+          "target": "/E-N-T-E-R/D/_index",
+          "text": "D"
+        },
+        {
+          "source": "/E-N-T-E-R/D/Language-Learning/Russian/Gender-of-Nouns-Ending-in-%D1%8C",
           "target": "/E-N-T-E-R/D/_index",
           "text": "D"
         },
@@ -361,6 +385,16 @@
     },
     {
       "source": "/E-N-T-E-R/D/Language-Learning/Language-Excursions",
+      "target": "/E-N-T-E-R/D/_index",
+      "text": "D"
+    },
+    {
+      "source": "/E-N-T-E-R/D/Language-Learning/Russian/EmPhAsIs-Problems",
+      "target": "/E-N-T-E-R/D/_index",
+      "text": "D"
+    },
+    {
+      "source": "/E-N-T-E-R/D/Language-Learning/Russian/Gender-of-Nouns-Ending-in-%D1%8C",
       "target": "/E-N-T-E-R/D/_index",
       "text": "D"
     },

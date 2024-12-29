@@ -1,28 +1,28 @@
 {
   "/": {
     "title": "D R O P E N",
-    "content": "\r\n## Welcome \r\n",
-    "lastmodified": "2024-06-30T18:56:48.1750985+02:00",
+    "content": "\r\n## Welcome \r\n\r\nI pick it up again and write down more. And what of these thoughts? drops in an ocean of noise :)\r\n\r\n\r\n\r\n\r\n",
+    "lastmodified": "2024-12-29T00:17:30.3801287Z",
     "tags": []
   },
   "/E-N-T-E-R/": {
     "title": "E N T E R",
-    "content": "\n# title \nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск. Здесь я должен начать с паузы и подумать о том, что все мысли и идеи, выраженные в этом пространстве, являются отражением ментальных установок, повторений, которые стремятся к улучшению, но не лишены недостатков. В настоящее время и в каждом последующем подарке пусть меня не покидает следующий принцип: в знании - свобода воли.\n\n\n[DROPEN](E-N-T-E-R/_index.md)",
-    "lastmodified": "2024-07-03T22:03:00.934074+02:00",
+    "content": "\r\n# title \r\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск. Здесь я должен начать с паузы и подумать о том, что все мысли и идеи, выраженные в этом пространстве, являются отражением ментальных установок, повторений, которые стремятся к улучшению, но не лишены недостатков. В настоящее время и в каждом последующем подарке пусть меня не покидает следующий принцип: в знании - свобода воли.\r\n\r\n\r\n[DROPEN](E-N-T-E-R/_index.md)",
+    "lastmodified": "2024-12-29T00:17:30.378624Z",
     "tags": []
   },
   "/E-N-T-E-R/D/": {
     "title": "D",
-    "content": "\nI am first (descending order!)\n[DROPEN](E-N-T-E-R/_index.md)\n",
-    "lastmodified": "2024-07-03T22:09:43.4297755+02:00",
+    "content": "\r\nI am first (descending order!)\r\n[DROPEN](E-N-T-E-R/_index.md)\r\n",
+    "lastmodified": "2024-12-29T00:17:30.3756129Z",
     "tags": [
       "example-tag"
     ]
   },
   "/E-N-T-E-R/D/Language-Learning/": {
     "title": "\"Language Learning\"",
-    "content": "\n\n[DROPEN](E-N-T-E-R/_index.md)\n[Russian](D/Russian.md)\n[Goal Roadmap](D/Goal Roadmap.md)\n",
-    "lastmodified": "2024-07-03T22:08:47.0925457+02:00",
+    "content": "\n\n[DROPEN](E-N-T-E-R/_index.md)\n[Russian](D/Russian.md)\n[Goal Roadmap](D/Goal Roadmap.md)\n[Gender of Nouns Ending in -ь](D/Gender of Nouns Ending in -ь.md)\n[EmPhAsIs Problems](D/EmPhAsIs Problems.md)\n\n",
+    "lastmodified": "2024-12-29T00:38:16.045777Z",
     "tags": [
       "lang-tag",
       "rus-tag",
@@ -32,24 +32,44 @@
   },
   "/E-N-T-E-R/D/Language-Learning/Language-Excursions": {
     "title": "Language Excursions",
-    "content": "[[Russian]]\n\n\n\n\n\n[D](E-N-T-E-R/D/_index.md)\n\n\n\n",
-    "lastmodified": "2024-07-03T22:07:05.0963529+02:00",
+    "content": "[[Russian]]\r\n\r\n\r\n\r\n\r\n\r\n[D](E-N-T-E-R/D/_index.md)\r\n\r\n\r\n\r\n",
+    "lastmodified": "2024-12-29T00:17:30.3708665Z",
     "tags": []
   },
   "/E-N-T-E-R/D/Language-Learning/Russian/": {
     "title": "RU",
-    "content": "\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.\n\n\n[DROPEN](E-N-T-E-R/_index.md)\n[D](E-N-T-E-R/D/_index.md)\n[Russian](D/Russian.md)\n[Goal Roadmap](D/Goal Roadmap.md)\n",
-    "lastmodified": "2024-07-03T22:08:39.7246542+02:00",
+    "content": "\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.\n\n\n[DROPEN](E-N-T-E-R/_index.md)\n[D](E-N-T-E-R/D/_index.md)\n[Russian](D/Russian.md)\n[Goal Roadmap](D/Goal Roadmap.md)\n[Gender of Nouns Ending in -ь](D/Gender of Nouns Ending in -ь.md)\n",
+    "lastmodified": "2024-12-29T00:37:38.9114222Z",
     "tags": [
       "rus-tag",
       "D",
       "example-tag"
     ]
   },
+  "/E-N-T-E-R/D/Language-Learning/Russian/EmPhAsIs-Problems": {
+    "title": "EmPhAsIs Problems",
+    "content": "\n12/28/24.\n\nBelow is a discussion of pronunciation troubles that seem to consistently crop up. \nTake for example some text below, taken from *Roadside Picnic* by the Strugatsky brothers. \n\n\t\"some text here\"\n\n\n\n[D](E-N-T-E-R/D/_index.md)",
+    "lastmodified": "2024-12-29T00:41:09.4141375Z",
+    "tags": [
+      "lang-tag",
+      "rus-tag",
+      "D"
+    ]
+  },
+  "/E-N-T-E-R/D/Language-Learning/Russian/Gender-of-Nouns-Ending-in-%D1%8C": {
+    "title": "Gender of Nouns Ending in -ь",
+    "content": "\nMini Project Dated: 6/18/2024 \n\n### In June of the year of our lord 2024...\n\nI was learning Russian nouns and training myself to recognize the difference between masculine, feminine, and neuter nouns. An oversimplified pattern emerged (yes I know there are exceptions): \n\u003e masculine nouns **in infinitive form** end in a consonant, feminine in -a, and neuter in -o. \n\nHowever, there are some nouns that end in ь which may be **either** masculine or feminine. So my question - out of the first 10,000 most commonly used Russian nouns ending in ь what's the proportion of feminine to masculine words? \n\nIf I took a guess while looking at some unfamiliar noun (inf.) ending in ь maybe I could guess with a bias favoring either masculine or feminine based on which showed up more. \n\nUsing a little bit of statistics, I was able to find a significant association between the relative frequency (ipm) score of nouns on this 10,000 word list, and the gender of these words. As for my sources - I was able to get the first 10,000 most commonly used words (a list which might change from resource to resource) from this resource : [https://ruscorpora.ru/en/](https://ruscorpora.ru/en/ \"https://ruscorpora.ru/en/\")\n\n\n### More On \"The Statistics\"\n\nR studio - \n\n[D](E-N-T-E-R/D/_index.md)",
+    "lastmodified": "2024-12-29T00:22:10.6491567Z",
+    "tags": [
+      "lang-tag",
+      "rus-tag",
+      "D"
+    ]
+  },
   "/E-N-T-E-R/D/Language-Learning/Russian/Goal-Roadmap": {
     "title": "Goal Roadmap w/ Timeline?",
     "content": "\n\n//todo: some type of table \n\n---\nA1 |  600 basic words | 6 major noun cases | ability to say basic sentences \nA2 | 400 more words | \nB1 | \nB2 | \n\n---\n\n\nList of tags: PoS, Gender, Numeral, Tense, Level, Topic 1, Topic 2, etc.\n\n\n[D](E-N-T-E-R/D/_index.md)\n",
-    "lastmodified": "2024-07-03T22:07:18.6983535+02:00",
+    "lastmodified": "2024-12-29T00:36:42.7244309Z",
     "tags": [
       "lang-tag",
       "rus-tag",
@@ -59,7 +79,7 @@
   "/E-N-T-E-R/D/Language-Learning/Russian/Russian": {
     "title": "R U S S I A N",
     "content": "## Vocab List \n\n\n[D](E-N-T-E-R/D/_index.md)",
-    "lastmodified": "2024-07-03T22:07:30.5100209+02:00",
+    "lastmodified": "2024-12-29T00:26:33.6897156Z",
     "tags": [
       "rus-tag",
       "D"
@@ -67,8 +87,8 @@
   },
   "/E-N-T-E-R/D/Lists/": {
     "title": "Lists",
-    "content": "\ntest \n\n[DROPEN](E-N-T-E-R/_index.md)\n[DROPEN](D/_index.md)\n[DROPEN](D/)",
-    "lastmodified": "2024-07-03T22:08:53.898752+02:00",
+    "content": "\r\ntest \r\n\r\n[DROPEN](E-N-T-E-R/_index.md)\r\n[DROPEN](D/_index.md)\r\n[DROPEN](D/)",
+    "lastmodified": "2024-12-29T00:17:30.3731051Z",
     "tags": [
       "D",
       "example-tag"
@@ -76,20 +96,20 @@
   },
   "/E-N-T-E-R/D/Lists/Reading-List": {
     "title": "Reading List",
-    "content": "## Summer 2024 Fiction\n- [ ] *The Shadow of the Gods*, John Gwynne (#Book1 Bloodsworn trilogy )\n- [x]  book2 \n- [ ] hi\n- [ ] \n## Summer 2024 Nonfiction \n- [ ] *Weapons of Math Destruction*, Cathy O'Neil \n\n\n//TODO: why bullets? why no /n ??\n//TODO: pop up blurb bubble for side menu items",
-    "lastmodified": "2024-06-28T17:03:32.3714723+02:00",
+    "content": "## December 2024 - January 2025 Nonfiction\n- [ ] *The Cause of All Nations*, Don H. Doyle (currently reading)\n- [ ] *Charlie Wilson's War*, George Crile\n- [ ] *Empire of the Summer Moon*, S.C. Gwynne\n- [ ] \n## January 2025 Fiction\n- [ ]  *Polostan*, Neal Stephenson",
+    "lastmodified": "2024-12-29T00:35:57.1541967Z",
     "tags": []
   },
   "/E-N-T-E-R/D/Lists/Vocab-A1-List": {
     "title": "Vocab A1 List",
     "content": "",
-    "lastmodified": "2024-07-03T21:53:35.7750948+02:00",
+    "lastmodified": "2024-12-29T00:17:30.3731051Z",
     "tags": []
   },
   "/E-N-T-E-R/D/Other-Writings/": {
     "title": "Other Writings",
-    "content": "\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.\n\n[DROPEN](E-N-T-E-R/_index.md)",
-    "lastmodified": "2024-07-03T22:08:58.4943838+02:00",
+    "content": "\r\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.\r\n\r\n[DROPEN](E-N-T-E-R/_index.md)",
+    "lastmodified": "2024-12-29T00:17:30.3731051Z",
     "tags": [
       "D",
       "example-tag"
@@ -98,13 +118,13 @@
   "/E-N-T-E-R/D/Other-Writings/Miscellaneous-Topics": {
     "title": "Miscellaneous Topics",
     "content": "",
-    "lastmodified": "2024-06-24T10:52:22.7835426+02:00",
+    "lastmodified": "2024-12-29T00:17:30.3731051Z",
     "tags": []
   },
   "/E-N-T-E-R/D/SOURCE-INDEX/": {
     "title": "SOURCE INDEX",
-    "content": "\n\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.\n\n[DROPEN](E-N-T-E-R/_index.md)",
-    "lastmodified": "2024-07-03T22:09:07.3618064+02:00",
+    "content": "\r\n\r\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.\r\n\r\n[DROPEN](E-N-T-E-R/_index.md)",
+    "lastmodified": "2024-12-29T00:17:30.3741028Z",
     "tags": [
       "D",
       "example-tag"
@@ -112,28 +132,28 @@
   },
   "/E-N-T-E-R/D/Worldbuilding/": {
     "title": "Worldbuilding",
-    "content": "\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.\n\n\n[DROPEN](E-N-T-E-R/_index.md)",
-    "lastmodified": "2024-07-01T14:43:35.5559555+02:00",
+    "content": "\r\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.\r\n\r\n\r\n[DROPEN](E-N-T-E-R/_index.md)",
+    "lastmodified": "2024-12-29T00:17:30.3756129Z",
     "tags": [
       "D"
     ]
   },
   "/E-N-T-E-R/D/Worldbuilding/Solar-System": {
     "title": "Solar System",
-    "content": "\n\nsdlfkjsdlkfjslkdjflsdkjflk\n",
-    "lastmodified": "2024-07-01T10:43:58.7507628+02:00",
+    "content": "\r\n\r\nsdlfkjsdlkfjslkdjflsdkjflk\r\n",
+    "lastmodified": "2024-12-29T00:17:30.3741028Z",
     "tags": []
   },
   "/E-N-T-E-R/D/Worldbuilding/Top-Down": {
     "title": "Top Down",
     "content": "sdfsdfsd",
-    "lastmodified": "2024-06-28T15:14:11.8903601+02:00",
+    "lastmodified": "2024-12-29T00:17:30.3741028Z",
     "tags": []
   },
   "/E-N-T-E-R/E/": {
     "title": "E",
-    "content": "\n## FK\n\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.\n\n[DROPEN](E/_index.md)",
-    "lastmodified": "2024-07-03T22:15:07.6642553+02:00",
+    "content": "\r\n## FK\r\n\r\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.\r\n\r\n[DROPEN](E/_index.md)",
+    "lastmodified": "2024-12-29T00:17:30.3756129Z",
     "tags": [
       "example-tag",
       "E"
@@ -141,23 +161,29 @@
   },
   "/E-N-T-E-R/N/": {
     "title": "N",
-    "content": "\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.\n\n[DROPEN](N/_index.md)",
-    "lastmodified": "2024-07-03T22:15:03.7364822+02:00",
+    "content": "\r\nwe are a world unto ourselves \r\n\r\n[DROPEN](N/_index.md)",
+    "lastmodified": "2024-12-29T00:17:30.3766282Z",
     "tags": [
       "example-tag",
       "N"
     ]
   },
+  "/E-N-T-E-R/N/Lib-of-Noise": {
+    "title": "Lib of Noise",
+    "content": "",
+    "lastmodified": "2024-12-29T00:17:30.3766282Z",
+    "tags": []
+  },
   "/E-N-T-E-R/Navigator": {
     "title": "N A V I G A T O R",
-    "content": "\n## TOC \n\n### Lists\n[[Reading List]]\n\nPlaylist\n\n### Language Learning \n[[Language Excursions]]\n\n\n### Worldbuilding \n[[Top Down]]\n\n\n[[Solar System]]\n\nPlanetary Concerns\n\nBeyond\n\n\n### Other/Miscellaneous Topics \n[[Travel]]\n\n\n[[Essays]]\n\n\n### Index of Sources (A-Z)\n\n\n\n\n\n\n",
-    "lastmodified": "2024-07-01T14:12:30.557931+02:00",
+    "content": "\r\n## TOC \r\n\r\n### Lists\r\n[[Reading List]]\r\n\r\nPlaylist\r\n\r\n### Language Learning \r\n[[Language Excursions]]\r\n\r\n\r\n### Worldbuilding \r\n[[Top Down]]\r\n\r\n\r\n[[Solar System]]\r\n\r\nPlanetary Concerns\r\n\r\nBeyond\r\n\r\n\r\n### Other/Miscellaneous Topics \r\n[[Travel]]\r\n\r\n\r\n[[Essays]]\r\n\r\n\r\n### Index of Sources (A-Z)\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "lastmodified": "2024-12-29T00:17:30.3766282Z",
     "tags": []
   },
   "/E-N-T-E-R/O/": {
     "title": "O",
-    "content": "\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.\n\n[DROPEN](O/_index.md)",
-    "lastmodified": "2024-07-03T22:14:36.1564915+02:00",
+    "content": "\r\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.\r\n\r\n[DROPEN](O/_index.md)",
+    "lastmodified": "2024-12-29T00:17:30.3776204Z",
     "tags": [
       "example-tag",
       "O"
@@ -165,8 +191,8 @@
   },
   "/E-N-T-E-R/P/": {
     "title": "P",
-    "content": "\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.\n\n[DROPEN](P/_index.md)",
-    "lastmodified": "2024-07-03T22:14:47.9350448+02:00",
+    "content": "\r\nЭти слова - всего лишь капля в море, попытка выразить словами какое-то маленькое чудо, каким бы эфемерным ни был его блеск.\r\n\r\n[DROPEN](P/_index.md)",
+    "lastmodified": "2024-12-29T00:17:30.3776204Z",
     "tags": [
       "P"
     ]
@@ -174,29 +200,29 @@
   "/E-N-T-E-R/R/": {
     "title": "R",
     "content": "\ncontent...\n\n[DROPEN](R/_index.md)",
-    "lastmodified": "2024-07-03T22:13:52.8366341+02:00",
+    "lastmodified": "2024-12-29T00:27:51.4439958Z",
     "tags": [
       "R"
     ]
   },
   "/E-N-T-E-R/collapsable/": {
     "title": "O N E",
-    "content": "\n## BEHOLD, CONTENT...",
-    "lastmodified": "2024-07-01T14:16:11.8264026+02:00",
+    "content": "\r\n## BEHOLD, CONTENT...",
+    "lastmodified": "2024-12-29T00:17:30.378624Z",
     "tags": []
   },
   "/E-N-T-E-R/collapsable/one/": {
     "title": "T W O",
-    "content": "\ncontent...",
-    "lastmodified": "2024-06-28T14:59:33.33099+02:00",
+    "content": "\r\ncontent...",
+    "lastmodified": "2024-12-29T00:17:30.3801287Z",
     "tags": [
       "example-tag"
     ]
   },
   "/E-N-T-E-R/collapsable/one/two/": {
     "title": "T H R E E",
-    "content": "\ncontent...",
-    "lastmodified": "2024-06-28T15:15:03.4012308+02:00",
+    "content": "\r\ncontent...",
+    "lastmodified": "2024-12-29T00:17:30.3801287Z",
     "tags": [
       "example-tag"
     ]
