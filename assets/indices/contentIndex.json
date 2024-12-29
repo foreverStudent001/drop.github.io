@@ -87,17 +87,23 @@
   },
   "/E-N-T-E-R/D/Lists/": {
     "title": "Lists",
-    "content": "\r\ntest \r\n\r\n[DROPEN](E-N-T-E-R/_index.md)\r\n[DROPEN](D/_index.md)\r\n[DROPEN](D/)",
-    "lastmodified": "2024-12-29T00:17:30.3731051Z",
+    "content": "\ntest \n\n[DROPEN](E-N-T-E-R/_index.md)\n[DROPEN](D/_index.md)\n[DROPEN](D/)",
+    "lastmodified": "2024-12-29T01:19:01.8575369Z",
     "tags": [
       "D",
       "example-tag"
     ]
   },
+  "/E-N-T-E-R/D/Lists/Every-Book-I-Ever-Read-Ever": {
+    "title": "Every Book I Ever Read Ever",
+    "content": "(in progress)\nAn attempt to compile a comprehensive list of every book I've read and completed, in alphabetical order, and perhaps later on with accompanying commentary. \n\n\n## A\n\n\n## B\n\n\n## C\n\n\n## D\n\n\n## C\n\n\n## E\n\n\n## F\n\n\n## G\n\n\n## H\n\n\n## I\n\n\n## J\n\n\n## K\n\n\n## L\n\n\n## M\n\n\n## N\n\n\n## O\n\n\n## P\n\n\n## Q\n\n\n## R\n\n\n## S\n\n\n## T\n\n\n## U\n\n\n## V\n\n\n## W\n\n\n## X\n\n\n## Y\n\n\n## Z",
+    "lastmodified": "2024-12-29T01:22:54.3091445Z",
+    "tags": []
+  },
   "/E-N-T-E-R/D/Lists/Reading-List": {
     "title": "Reading List",
     "content": "## December 2024 - January 2025 Nonfiction\n- [ ] *The Cause of All Nations*, Don H. Doyle (currently reading)\n- [ ] *Charlie Wilson's War*, George Crile\n- [ ] *Empire of the Summer Moon*, S.C. Gwynne\n- [ ] \n## January 2025 Fiction\n- [ ]  *Polostan*, Neal Stephenson",
-    "lastmodified": "2024-12-29T00:35:57.1541967Z",
+    "lastmodified": "2024-12-29T02:35:56.4270274Z",
     "tags": []
   },
   "/E-N-T-E-R/D/Lists/Vocab-A1-List": {
@@ -170,9 +176,12 @@
   },
   "/E-N-T-E-R/N/Lib-of-Noise": {
     "title": "Lib of Noise",
-    "content": "",
-    "lastmodified": "2024-12-29T00:17:30.3766282Z",
-    "tags": []
+    "content": "\n**sorted: old - new**\n\n\nThought of the Day\n\na good idea lives in perpetuity\n\n",
+    "lastmodified": "2024-12-29T01:31:45.5044806Z",
+    "tags": [
+      "N",
+      "example-tag"
+    ]
   },
   "/E-N-T-E-R/Navigator": {
     "title": "N A V I G A T O R",
