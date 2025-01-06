@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/E N T E R/D/Language Learning/Russian/EmPhAsIs Problems.md",
+                "file": "content/E N T E R/D/Lists/Reading List.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "EmPhAsIs Problems"
+              "title": "Reading List"
             }
           }
         ]
@@ -164,6 +164,19 @@
   },
   "active": "91b3c15f1465a488",
   "lastOpenFiles": [
+    "content/E N T E R/D/Lists/Every Book I Ever Read Ever.md",
+    "content/E N T E R/D/Language Learning/Language Excursions.md",
+    "content/E N T E R/D/Language Learning/_index.md",
+    "content/E N T E R/D/Language Learning/Russian/Russian.md",
+    "content/E N T E R/D/Language Learning/Russian/Goal Roadmap.md",
+    "content/E N T E R/D/Language Learning/Russian/Gender of Nouns Ending in -ь.md",
+    "content/E N T E R/D/Language Learning/Russian/EmPhAsIs Problems.md",
+    "content/E N T E R/Navigator.md",
+    "content/E N T E R/D/Other Writings/The Cause of All Nations Analysis.md",
+    "content/E N T E R/D/Other Writings/Movie Beat sheets",
+    "content/E N T E R/D/Other Writings/_index.md",
+    "content/E N T E R/D/Other Writings/Miscellaneous Topics.md",
+    "content/E N T E R/D/Lists/_index.md",
     "docker-compose.yaml",
     "New Text Document.txt",
     "New folder",
@@ -173,15 +186,8 @@
     "public/tags/P/page/1/index.html",
     "public/tags/R/page/1/index.html",
     "public/tags/lang-tag/page/1/index.html",
-    "public/tags/O/page/1/index.html",
-    "public/tags/false/page/1/index.html",
-    "content/E N T E R/D/Language Learning/Russian/Gender of Nouns Ending in -ь.md",
-    "content/E N T E R/D/Language Learning/Russian/Goal Roadmap.md",
     "content/E N T E R/D/Lists/Reading List.md",
-    "content/E N T E R/D/Lists/_index.md",
     "content/E N T E R/N/Lib of Noise.md",
-    "content/E N T E R/D/Language Learning/Russian/EmPhAsIs Problems.md",
-    "content/E N T E R/D/Lists/Every Book I Ever Read Ever.md",
     "public/svg/translate.svg",
     "public/svg/toc.svg",
     "public/svg/menu.svg",
@@ -189,23 +195,16 @@
     "public/svg/calendar.svg",
     "public/favicon.png",
     "public/favicon2.png",
-    "content/E N T E R/D/Language Learning/Russian/Russian.md",
-    "content/E N T E R/D/Language Learning/_index.md",
     "content/E N T E R/D/Language Learning/Russian/_index.md",
     "content/E N T E R/R/_index.md",
     "content/_index.md",
-    "content/E N T E R/Navigator.md",
     "content/E N T E R/N/_index.md",
-    "content/E N T E R/D/Other Writings/Miscellaneous Topics.md",
     "content/E N T E R/D/SOURCE INDEX/_index.md",
     "content/E N T E R/D/Worldbuilding/Top Down.md",
     "content/E N T E R/D/Worldbuilding/Solar System.md",
     "D/Gender.md",
     "D/Russian.md",
-    "content/E N T E R/D/Other Writings/_index.md",
-    "content/E N T E R/D/Language Learning/Language Excursions.md",
     "content/E N T E R/collapsable/_index.md",
-    "content/E N T E R/collapsable/one/_index.md",
-    "content/E N T E R/collapsable/one/two/_index.md"
+    "content/E N T E R/collapsable/one/_index.md"
   ]
 }
